@@ -1,1 +1,5 @@
+<<<<<< HEAD
 BMS Institute of technology
+=======
+BMSIT&M
+>>>>>>> aiml
